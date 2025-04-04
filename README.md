@@ -1,6 +1,4 @@
 # HR-Data-Analytics
-# HR Data Analytics - HR Domain [Power BI | Excel]
-
 ## 📌 Project Overview  
 This project focuses on analyzing **employee data** using **Power BI** to assist the **HR team**. The data includes key HR metrics such as:  
 - 🕒 **Working Hours**  
