@@ -23,6 +23,6 @@ The dashboard helps HR professionals:
 - **DAX (Data Analysis Expressions)** 🔢 – For advanced calculations  
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview]([https://github.com/yourusername/hr-data-analytics/blob/main/screenshot.png](https://github.com/Kushal2025/HR-Data-Analytics/blob/b86f03cc8b5e804da4f99f30763ba4d4042e1a77/Screenshot%20(89).png)) *(Replace with actual image path)*  
+![image](https://github.com/Kushal2025/HR-Data-Analytics/blob/b86f03cc8b5e804da4f99f30763ba4d4042e1a77/Screenshot%20(89).png)
 
 ## 📂 Project Structure  
